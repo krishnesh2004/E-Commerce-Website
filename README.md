@@ -1,65 +1,70 @@
-# E-commerce Website using React and Redux
+# 🛒 E-commerce Website using React and Redux
 
-Welcome to the E-commerce Website project! This application is designed to showcase various features of React and Redux for building a modern and responsive e-commerce platform.
+Welcome to the **E-commerce Website** project!  
+This app demonstrates how to build a modern, responsive e-commerce platform using **React** and **Redux**, featuring real-world functionalities.
 
-## Project Features
+---
 
-- **Fetch Products Using API:** The app fetches product data from an external API, providing a wide range of products for users to explore.
+## 🚀 Project Highlights
 
-- **Redux for State Management:** Utilizes Redux for efficient state management, ensuring a consistent and scalable data flow within the application.
+✅ **Fetch Products from API:**  
+Dynamically loads a variety of products from an external API, giving a realistic shopping experience.
 
-- **Add and Remove Functionality in Cart:** Users can easily add products to their shopping cart and remove them, providing a seamless shopping experience.
+✅ **Redux State Management:**  
+Efficient use of Redux ensures a robust and scalable data flow across the app.
 
-- **React Class-Based Components:** The project uses class-based components in React, showcasing different component lifecycles and state management techniques.
+✅ **Add & Remove from Cart:**  
+Users can add products to their cart and remove them effortlessly.
 
-## Getting Started
+✅ **Class-Based React Components:**  
+Showcases React’s class component structure along with lifecycle methods.
 
-To get started with this project, follow these steps:
+---
 
+## 💻 Quick Start
 
-1. Fork and clone this repository to your local machine:
+Run locally on [http://localhost:3000](http://localhost:3000).  
+The app auto reloads as you save changes.
 
-   ```bash
-   git clone https://github.com/your-username/E-commerce-website-using-React-Redux.git
-   ```
-2. Install the required dependencies:
-   
-   ```bash
-   cd E-commerce-website-using-React-Redux
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm start
-   ```
+---
 
-4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser. The page reloads when you make changes.
-   
-You may also see any lint errors in the console.
+## 🔥 Screenshots
 
-## Scripts
+### 🏠 Profile / Product Section  
+Here you can browse through various products fetched via API.
 
-### `npm test`
+<img width="1862" height="1029" alt="Product Page" src="https://github.com/user-attachments/assets/2ee00112-8664-4dd4-b384-da839a57b8c0" />
+<br/>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+### 💳 Checkout Section  
+Easily checkout selected items with total calculated cost.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="1890" height="1017" alt="Checkout Page" src="https://github.com/user-attachments/assets/56c51b98-d9de-4976-8721-83718c5e9b11" />
+<br/>
 
-##  Snapshot 
+---
 
-<img width="1258" alt="Screenshot 2023-08-13 at 11 05 22 PM" src="https://github.com/khushi2706/E-commerce-website-using-React-Redux/assets/67452985/e29df1a4-15c5-4bc2-889b-1b401a00fcda">
-<img width="1276" alt="Screenshot 2023-08-13 at 11 05 49 PM" src="https://github.com/khushi2706/E-commerce-website-using-React-Redux/assets/67452985/081dc93b-f17b-4d12-a625-37ab05ef16f9">
+## 🛠️ Tech Stack
 
-## Contributing
+- **React JS** (Class Components)
+- **Redux** for global state
+- **CSS** for custom styling
+- **External APIs** for dynamic product data
 
-We welcome contributions from the community.
+---
 
-------------------------------------------------------------------------
+## 🎯 Why this project?
 
-Feel free to explore the codebase, test the application, and contribute to its development. If you have any questions or need assistance, please don't hesitate to reach out.
+This project is perfect for learning:
 
-Happy coding!
+- How to integrate **Redux** into a React app.
+- Manage global state like cart items, quantities & total price.
+- Build scalable UI using reusable components.
+- Handle forms with validations on checkout.
+
+---
+
+🚀 Happy Coding!  
+If you like it, ⭐ the repo!
